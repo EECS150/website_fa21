@@ -1,4 +1,4 @@
-# EECS151/251 Fa20 Course Website
+# EECS151/251 Fa21 Course Website
 
 ## Step 0: Make sure you have write access
 
@@ -18,6 +18,6 @@
   - 
     ```sh
     $ ssh eecs151@ashby.cs.berkeley.edu
-    $ cd ~/public_html/fa20
+    $ cd ~/public_html/fa21
     $ git pull
     ```
